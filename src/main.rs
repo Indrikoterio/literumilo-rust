@@ -1,7 +1,8 @@
-// literumilo - This program is a spell checker for Esperanto.
-// Besides checking spelling, it can separate words into their component morphemes.
-// For example. 'forigitaj' will be divided as 'for.ig.it.aj'.
-// Klivo 2020-05-08
+// Literumilo - A spell checker and morphological analyzer for Esperanto, written in Rust.
+// Literumilo checks the spelling of Esperanto words, and divides them into morphemes.
+// For example, 'miskomprenita' is divided as 'mis.kompren.it.a'.
+// Literumilo can analyze individual Esperanto words, or an entire file of Esperanto text.
+// Klivo 2020-05-15
 
 #[macro_use]
 mod macros;
