@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Klivo <indriko@yahoo.com>"]
 edition = "2018"
 description = "A spell checker and morphological analyzer for Esperanto."
-license = "See README"
 documentation = "https://github.com/Indrikoterio/literumilo-rust"
 homepage = "https://github.com/Indrikoterio/literumilo-rust"
 repository = "https://github.com/Indrikoterio/literumilo-rust"
